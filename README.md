@@ -1,5 +1,5 @@
 # CmdWt
-> A child of [CmdUtils](../CmdUtils/).
+> A child of [CmdUtils](../../../CmdUtils/).
 
 Allows users to run the Windows Terminal application regardless of whether shell execution is available.
 
