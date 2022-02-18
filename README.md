@@ -1,12 +1,16 @@
 # CmdWt
+> A child of [CmdUtils](../CmdUtils/).
+
 Allows users to run the Windows Terminal application regardless of whether shell execution is available.
 
 ## Usage
 `> wt [params]`
+
 **Example #1:** `> wt`
-The above example will open the Windows Terminal application.
+<br/>The above example will open the Windows Terminal application.
+
 **Example #2:** `> wt "Example.bat"`
-The above example will open the Windows Terminal application, and invoke 'Example.bat' as a command.
+<br/>TThe above example will open the Windows Terminal application, and invoke 'Example.bat' as a command.
 
 ## Installation
 Get the [latest release](../../../releases/tag/C,dWt/latest) from the [Releases](../../../releases) tab, and extract the `Wt.exe` executable to a known location.
